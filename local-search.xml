@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title>article title</title>
+    <link href="/uncategorized/article-title/"/>
+    <url>/uncategorized/article-title/</url>
+    
+    <content type="html"><![CDATA[]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/uncategorized/hello-world/"/>
     <url>/uncategorized/hello-world/</url>
@@ -18,18 +31,28 @@
   
   <entry>
     <title>「夜空のクレヨン(Crayons in the night sky)」/まふまふ【罗马音+假名歌词】</title>
-    <link href="/uncategorized/crayonromaji/"/>
-    <url>/uncategorized/crayonromaji/</url>
+    <link href="/romaji/crayonromaji/"/>
+    <url>/romaji/crayonromaji/</url>
     
     <content type="html"><![CDATA[<p>「夜空のクレヨン」</p><p>作詞作編曲：まふまふ<br>絵：たま<br>映像：MONO-Devoid<br>Piano：宇都圭輝<br>Vocal：まふまふ</p><p>罗马音：<a href="https://space.bilibili.com/242402048/article" target="_blank" rel="noopener">化野_uni</a></p><p>歌词翻译：<a href="https://m.weibo.cn/status/Ja7St0TqS" target="_blank" rel="noopener">https://m.weibo.cn/status/Ja7St0TqS</a></p><p>se kai jyuu no ku re yon wo<br>世界中(せかいじゅう)のクレヨンを<br>fu ri ma i ta yoru no u e<br>振(ふ)りまいた夜(よる)の上(うえ)<br>kimi ni ki ko e nu you ni<br>君(きみ)に聞(き)こえぬように<br>yo zora e tsu bu ya i ta<br>夜空(よぞら)へつぶやいた</p><p>nee go tai sou na su to-ri- ya<br>ねえ 御大層(ごたいそう)なストーリーや<br>hoko reru you na mi rai jya naku ta tte<br>誇(ほこ)れるような未来(みらい)じゃなくたって<br>kimi to no a su wo<br>君(きみ)との明日(あす)を<br>sa ga shi tei ta<br>探(さが)していた<br>ho shi zo ra<br>星空(ほしぞら)</p><p>sei ten no zora mo ne shi zu maru you na<br>晴天(せいてん)の空(ぞら)も寝静(ねしず)まるような<br>sei jya ku to kyou wa ta na ba ta no yoru<br>静寂(せいじゃく)と今日(きょう)は 七夕(たなばた)の夜(よる)<br>ho te ru hoho wo ki zu kare nu you ni<br>火照(ほて)る頬(ほほ)を気(き)づかれぬように<br>kimi no ma e wo a ru i te i ru<br>君(きみ)の前(まえ)を歩(ある)いている</p><p>na tsu kaze tsu ki kage<br>夏風(なつかぜ) 月影(つきかげ)<br>na re na i ge ta no ne<br>慣(な)れない下駄(げた)の音(ね)<br>yo zora ni hi bi ku<br>夜空(よぞら)に響(ひび)く</p><p>sei kai jyuu no ku re yon wo<br>世界中(せかいじゅう)のクレヨンを<br>fu ri ma i ta yoru no u e<br>振(ふ)りまいた夜(よる)の上(うえ)<br>son na ko i ni ki zu ku no wa<br>そんな恋(こい)に気(き)づくのは<br>su ko shi saki da tta<br>少(すこ)し先(さき)だった</p><p>nee go tai sou na su to-ri ya<br>ねえ 御大層(ごたいそう)なストーリーや<br>hoko reru you na mi rai jya naku ta tte<br>誇(ほこ)れるような未来(みらい)じゃなくたって<br>kimi to no a su wo<br>君(きみ)との明日(あす)を<br>sa ga shi tei ta<br>探(さが)していた<br>ho shi zora<br>星空(ほしぞら)</p><p>me gu ri a i wa i tsu ka no ki se ki<br>巡(めぐ)り合(あ)いは いつかの奇跡(きせき)<br>ma chi a wa se wa boku ra no ki se ki<br>待(ま)ち合(あ)わせは ボクらの軌跡(きせき)<br>do no mi rai mo wa ka tte ru koto wa<br>どの未来(みらい)もわかってることは<br>dono mi ra i mo bo ku ra no ma e ni aru tte koto<br>どの未来(みらい)もボクらの前(まえ)にあるってこと</p><p>na ga kami ka ki wake<br>長髪(ながかみ) かき分(わ)け<br>fi ri mu ku shi gu sa ni<br>振(ふ)り向(む)く仕草(しぐさ)に<br>mune wa taka na tta<br>胸(むね)は高鳴(たかな)った</p><p>se i ga ni ne sobe tte kata ra tte<br>星河(せいが)に寝(ね)そべって 語(かた)らって<br>wara i sou na kimi no yume<br>笑(わら)いそうな君(きみ)の夢(ゆめ)<br>toki no hako bume no naka<br>時(とき)の箱舟(はこぶね)の中(なか)<br>ka na ta de tata zun da<br>彼方(かなた)で佇(たたず)んだ</p><p>ko i shi tau kyou bi ko kai<br>恋(こ)い慕(した)う 今日日(きょうび)後悔(こうかい)<br>i ku do no ma tsu yo i don na kan jyou mo<br>幾度(いくど)の待(ま)つ宵(よい) どんな感情(かんじょう)も<br>kimi no to na ri de ki zu ke ta ra<br>君(きみ)の隣(となり)で気(き)づけたら<br>yo ka tta naa<br>よかったなあ</p><p>ha ji me te kan ji ta<br>初(はじ)めて感(かん)じた<br>ki mo chi ni yuku a te wa nai yo<br>気持(きも)ちに行(ゆ)く宛(あて)はないよ<br>don na ri yuu de don na koto ba de<br>どんな理由(りゆう)で どんな言葉(ことば)で<br>do n na ka o shi te<br>どんな顔(かお)して<br>ki mi no te wo to re ba i in da rou<br>君(きみ)の手(て)を取(と)ればいいんだろう</p><p>sei kai jyuu no ku re yon wo<br>世界中(せかいじゅう)のクレヨンを<br>fu ri ma i ta yoru no u e<br>振(ふ)りまいた夜(よる)の上(うえ)<br>kimi ni ki ko e nu you ni<br>君(きみ)に聞(き)こえぬように<br>yo zora e tsu bu ya i ta<br>夜空(よぞら)へつぶやいた</p><p>nee go tai sou na su to-ri ya<br>ねえ 御大層(ごたいそう)なストーリーや<br>hoko reru you na mi rai jya naku ta tte<br>誇(ほこ)れるような未来(みらい)じゃなくたって<br>yume no tsu zu ki wo<br>夢(ゆめ)の続(つづ)きを<br>sa ga shi tei ta<br>探(さが)していた<br>sore wa sa i go no<br>それは最後(さいご)の<br>ki mi to mi ta ho shi zora<br>君(きみ)と見(み)た星空(ほしぞら)</p><p>ten tai no sei sai wo<br>天体(てんたい)の星祭(せいさい)を<br>kimi to a ru i ta<br>君(きみ)と歩(ある)いた<br>man ten wo shou kei wo<br>満天(まんてん)を憧憬(しょうけい)を<br>mou kou kai wa hi to tsu da tte shi nai you ni<br>もう後悔(こうかい)はひとつだってしないように</p><p>ho shi kuzu no furu yoru ni<br>星屑(ほしくず)の降(ふ)る夜(よる)に<br>ki mi ni tsu ta e ru ta me ni<br>君(きみ)に伝(つた)えるために<br>a i ni yu ku yo<br>会(あ)いに行(ゆ)くよ<br>ya ku so ku shi you<br>約束(やくそく)しよう</p>]]></content>
     
     
+    <categories>
+      
+      <category>罗马音</category>
+      
+    </categories>
+    
     
     <tags>
       
-      <tag>中文 (中国)</tag>
-      
       <tag>罗马音</tag>
+      
+      <tag>まふまふ</tag>
+      
+      <tag>假名歌词</tag>
+      
+      <tag>夜空のクレヨン</tag>
       
     </tags>
     

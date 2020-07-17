@@ -4,32 +4,6 @@
   
   
   <entry>
-    <title>article title</title>
-    <link href="/uncategorized/article-title/"/>
-    <url>/uncategorized/article-title/</url>
-    
-    <content type="html"><![CDATA[]]></content>
-    
-    
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="/uncategorized/hello-world/"/>
-    <url>/uncategorized/hello-world/</url>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
-    
-    
-    
-  </entry>
-  
-  
-  
-  <entry>
     <title>「夜空のクレヨン(Crayons in the night sky)」/まふまふ【罗马音+假名歌词】</title>
     <link href="/romaji/crayonromaji/"/>
     <url>/romaji/crayonromaji/</url>
@@ -62,18 +36,28 @@
   
   <entry>
     <title>【歌词翻译】夜空のクレヨン／まふまふ</title>
-    <link href="/uncategorized/crayon/"/>
-    <url>/uncategorized/crayon/</url>
+    <link href="/translation/crayon/"/>
+    <url>/translation/crayon/</url>
     
     <content type="html"><![CDATA[<p><a href="https://m.weibo.cn/status/Ja7St0TqS?display=0&retcode=6102" target="_blank" rel="noopener">https://m.weibo.cn/status/Ja7St0TqS?display=0&amp;retcode=6102</a></p>]]></content>
     
     
+    <categories>
+      
+      <category>歌词翻译</category>
+      
+    </categories>
+    
     
     <tags>
       
-      <tag>中文 (中国)</tag>
+      <tag>まふまふ</tag>
       
-      <tag>まふまふ歌词翻译</tag>
+      <tag>中文歌词</tag>
+      
+      <tag>歌词翻译</tag>
+      
+      <tag>夜空のクレヨン</tag>
       
     </tags>
     
@@ -83,18 +67,28 @@
   
   <entry>
     <title>アルターエゴ(Alter Ego)/まふまふ【罗马音+假名歌词】(第五人格二周年纪念联动原创曲）</title>
-    <link href="/uncategorized/alteregoromaji/"/>
-    <url>/uncategorized/alteregoromaji/</url>
+    <link href="/romaji/alteregoromaji/"/>
+    <url>/romaji/alteregoromaji/</url>
     
     <content type="html"><![CDATA[<p>アルターエゴ(Alter Ego)</p><p>作詞作編曲：まふまふ<br>絵/映像：まふてる<br>Vocal：まふまふ</p><p>罗马音：<a href="https://space.bilibili.com/242402048/article" target="_blank" rel="noopener">化野_uni</a></p><p>歌词翻译：<a href="https://m.weibo.cn/detail/4523055269237109" target="_blank" rel="noopener">https://m.weibo.cn/detail/4523055269237109</a></p><p>yu gan da ki o ku to<br>歪(ゆが)んだ記憶(きおく)と<br>wa zu ka ni mi ta sare nai<br>僅(わず)かに満(み)たされない<br>kuu ha ku wa<br>空白(くうはく)は<br>a na ta no jin kaku<br>貴方(あなた)の人格(じんかく)<br>mi te kure dake wa o mo te u ra hito tsu no<br>見(み)てくれだけは表裏(おもてうら)ひとつの<br>a mi gu ru mi<br>編(あ)みぐるみ<br>soko ni a tte mo<br>其処(そこ)に在(あ)っても<br>shou tai wa fu mei de shi ta<br>正体(しょうたい)は不明(ふめい)でした</p><p>tsu gu nai ma ka nai a i tsu mi tsu ku ri<br>償(つぐな)い 賄(まかな)い合(あ)い 罪作(つみつく)り<br>i tsu ka do kka no yota bana shi？<br>いつか何処(どっ)かの与太話(よたばなし)？<br>kana shii kana shii mono mono wara i<br>悲(かな)しい 愛(かな)しい者(もの) 物笑(ものわら)い<br>do cchi e ni ge te kaku re temo<br>どっちへ逃(に)げて隠(かく)れても<br>ya mi yo no sono<br>闇夜(やみよ)の園(その)</p><p>「o ni san ko chi ra te no naru hou e」<br>「鬼(おに)さんこちら 手(て)の鳴(な)る方(ほう)へ」<br>towa ni mu shi ku tta se ka i e<br>永久(とわ)に虫喰(むしく)った世界(せかい)へ<br>yo a ke nu mama tsu mi wo kazo e te i ru<br>夜明(よあ)けぬまま罪(つみ)を数(かぞ)えている<br>sai te na fei ku sho- da<br>最低(さいて)なフェイクショーだ</p><p>ya ma nai a me ni ya me do<br>止(や)まない雨(あめ)に病(や)めど<br>naga re o chi ru toga nado na i<br>流(なが)れ落(お)ちる咎(とが)などない<br>soba ni i te kure na i ka<br>そばにいてくれないか<br>shi kka ku sha<br>失格者(しっかくしゃ)</p><p>kyo jya ku na ko e wa<br>虚弱(きょじゃく)な声(こえ)は<br>kokoro wo ka wa su hodo<br>心(こころ)を交(か)わすほど<br>yume mi tei ta<br>夢見(ゆめみ)ていた<br>dare ka no jin kaku<br>誰(だれ)かの人格(じんかく)<br>yo no koto wari ni<br>世(よ)の理(ことわり)に<br>tada senu a ya ma ri ni<br>正(ただ)せぬ誤(あやま)りに<br>ki zu i temo i mi wa nai no sa<br>気(き)づいても意味(いみ)はないのさ<br>jyaa nan ni ki tai shi tei run da<br>じゃあ何(なん)に期待(きたい)しているんだ</p><p>i tsu wa ru hodo kizu tsu ku hodo o wa ri e<br>偽(いつわ)るほど 傷(きず)つくほど終(お)わりへ<br>ta e zu ka soku suru puro sesu<br>絶(た)えず加速(かそく)するプロセス<br>se ki ko mu hodo sei san na ai nara ba<br>咳(せ)き込(こ)むほど凄惨(せいさん)な愛(あい)ならば<br>ko kkei na fi ku shon de<br>滑稽(こっけい)なフィクションで</p><p>a no hi yo mi chi ga e ta<br>あの日(ひ)読(よ)み違(ちが)えた<br>ryo u me i ma da mi e nu mama no<br>両目(りょうめ) 未(いま)だ見(み)えぬままの<br>boku ni shi tsu bou shi te i tan da<br>ボクに失望(しつぼう)していたんだ<br>shi kka ku sha<br>失格者(しっかくしゃ)</p><p>nin gen shi kaku sa naki yo ga ta ri<br>人間失格(にんげんしっかく)さ 無(な)き世語(よがた)り<br>kyou ga kon na ni ku ra i no ni<br>今日(きょう)がこんなに暗(くら)いのに<br>u ta gai u ta gai<br>疑(うたが)い 疑(うたが)い<br>kimi ni yo ri so u chii sa na i ppo mo<br>君(きみ)に寄(よ)り添(そ)う小(ちい)さな一歩(いっぽ)も<br>kono te ni wa a ma ru you da<br>この手(て)には余(あま)るようだ</p><p>「o ni san ko chi ra te no naru hou e」<br>「鬼(おに)さんこちら 手(て)の鳴(な)る方(ほう)へ」<br>towa ni mu shi ku tta se ka i e<br>永久(とわ)に虫喰(むしく)った世界(せかい)へ<br>yo a ke nu mama tsu mi wo kazo e te i ru<br>夜明(よあ)けぬまま罪(つみ)を数(かぞ)えている<br>sai te na fei ku sho- da<br>最低(さいて)なフェイクショーだ</p><p>se i te to o no ku sei ni<br>急(せ)いて遠(とお)のく背(せ)に<br>a se ta ko e wa todo ki shi na i<br>褪(あ)せた声(こえ)は届(とど)きしない<br>soba ni i te kure na i ka<br>そばにいてくれないか<br>shi kka ku sha<br>失格者(しっかくしゃ)</p>]]></content>
     
     
+    <categories>
+      
+      <category>罗马音</category>
+      
+    </categories>
+    
     
     <tags>
       
-      <tag>中文 (中国)</tag>
-      
       <tag>罗马音</tag>
+      
+      <tag>まふまふ</tag>
+      
+      <tag>假名歌词</tag>
+      
+      <tag>アルターエゴ</tag>
       
     </tags>
     
@@ -264,7 +258,7 @@
     <link href="/uncategorized/kuyamutokaitemirai/"/>
     <url>/uncategorized/kuyamutokaitemirai/</url>
     
-    <content type="html"><![CDATA[<p>悔やむと書いてミライ 歌词翻译 中文歌词</p><p><a href="https://www.nicovideo.jp/watch/sm36566206" target="_blank" rel="noopener">【MV】最終宣告／まふまふ</a></p><p>作词作编曲：まふまふ<br>歌词翻译：JZLSX</p><p>#不管是做字幕还是贴评论区，只要转载翻译请标明译者！请勿自行改动翻译！</p><p>#5/9补充：根据官方歌词修改部分排版</p><p>罗马音：<a href="https://mafuclub.com/romaji/kuyamu/" target="_blank" rel="noopener">https://mafuclub.com/romaji/kuyamu/</a></p><p>悔やむと書いてミライ/ 写作悔恨的未来[1]</p><p>一思いにボクを刺してくれたら<br>如果能狠心刺向我<br>いいのにな　いいのにな<br>就好了啊 就好了啊<br>不条理な御託で刺してくれたら<br>如果能以毫无逻辑的夸夸其谈刺向我<br>いいのにな　いいのにな<br>就好了啊 就好了啊</p><p>いつかゴミに出したのに<br>明明什么时候已经作为垃圾扔掉了的<br>袖口に隠していた生涯<br>藏在袖口里的生涯<br>燃やせぬまま灰になれずにいたんだ<br>却无法使它烧掉化作灰烬</p><p>死にたい　消えたい以上ない<br>想死 想消失 没有超出于此的想法<br>こんな命に期待はしないさ<br>对这样的生命完全没有期待<br>故に夢に魘され<br>因此 此为在噩梦中呻吟<br>塞いだ過去に咲いた世界<br>于郁闷的过去绽放的世界</p><p>癒えない　見えない傷ほど<br>越是无法痊愈 无法看见的伤痕<br>きっと瘡蓋だって出来やしないと<br>就越是无法结痂<br>ボクは知っていた<br>这一点我深知着<br>悔やむと書いてミライ<br>写作后悔的未来</p><p>生きるふりをして死んでいくのが<br>装作活着渐渐死去的是<br>人生か　人生だ<br>人生吗 是人生啊</p><p>そんじゃボクらはどうしてこの世に<br>既然如此 我们为何在这世上<br>こんな未完成な身体に<br>在这样未完成的身体里<br>未だ　心を持っているんだ<br>仍然拥有着心脏呢[2]</p><p>きっと拉げた如雨露で<br>一定在用着被压碎的喷壶<br>花を咲かせようとした　そうさ<br>尝试着让花朵盛开 对了<br>種一つない土に撒いちゃいないか<br>要撒在没有一粒种子的土地里吗？[3]</p><p>だから一抜けした　捨てた<br>所以我脱离了群体 舍弃一切<br>この世の流行り病のような愛も<br>这世上像流行病一样的爱也好<br>爪の先よりも細い<br>比指甲尖更细的<br>底浅い友の情愛も<br>肤浅的朋友之间的情爱也好</p><p>知らない　知りたいこともない<br>我不知道 也完全不想知道<br>どうせ言葉以上の意味などないと<br>反正它们也没有超出文字本身的意思了<br>ボクは知っていた<br>这点我是深知的<br>悔やむと書いてミライ<br>写作悔恨的未来</p><p>片道分の蝋を持って<br>握着渐渐燃烧殆尽的蜡烛<br>消さないように必死になって<br>为了不让它熄灭而拼命下去<br>わずか照らした一寸先の<br>微微被照耀的 向前一寸的前方的<br>穴ぼこは誰が落ちた跡？<br>坑洞是谁落下的痕迹？</p><p>それが人生です　ボクら手にした人生なんです<br>那就是人生 在我们手中的人生</p><p>生まれたこと自体が<br>被生下来这件事本身<br>間違いだったの？<br>就是错误的吧？</p><p>何も変わりやしなかった[4]<br>什么也没能改变</p><p>死にたい　消えたい以上ない<br>想死 想消失 没有超出于此的想法<br>こんな命に期待はしないさ<br>对这样的生命完全没有期待<br>故に夢に魘され<br>因此 此为在噩梦中呻吟<br>塞いだ過去に咲いた世界<br>于郁闷的过去绽放的世界</p><p>癒えない　見えない傷ほど<br>越是无法痊愈 无法看见的伤痕<br>きっと瘡蓋だって出来やしないと<br>就越是无法结痂<br>ボクは知っていた<br>这一点我深知着<br>悔やむと書いてミライ<br>写作后悔的未来</p><p>悔やむと書いて　ミライ<br>写作后悔的 未来</p><p>消えたいの　消えたいの<br>“想消失吗 想消失吗”<br>何回だって言い聞かせた<br>不管多少次都这样对自己说出</p><p>夢も見れぬような　後悔を頂戴<br>请给我无法做梦般的后悔</p><p>[1]：关于这次的曲名，有人说是“写下悔恨的未来”，确实翻译成写下也能说通，但是日语有种说法叫「○○と書いて○○と読む」 意思是 写作XXX读作XXX。很多情况下会有故意让汉字和读音不匹配的情况，所以用这种说法来解释读音。结合这一点来看这个标题的意思大概是 写作“悔恨”而读作“未来” 的意思，大概就像图中的一样，也更比“写下悔恨的未来” 更加说得通，符合意境一些，而且能解释为什么“未来”要用片假名写而不是汉字。所以我认为曲名的正确翻译应该是“写作悔恨的未来”</p><p><img src="https://mafuclub.com/wp-content/uploads/2020/04/1587643792141.png" srcset="https://cdn.jsdelivr.net/gh/JZLSX/jzlsx.github.io/img/loading.gif" alt=""></p><p>[2]这里<strong>心を持つ</strong>可以是怀有心灵，但是如果理解成 “怀有一颗心”的话会偏向与“对…抱有期待”，这两种翻译都能说通，不过一般就理解为怀有心灵，而且应该不会有这样的引申意义，所以就按照字面意思翻译了。</p><p>[3]：这里咨询了一些人 发现“要撒在没有一粒种子的土地里吗？”和“不是正在往没有一粒种子的土里撒吗”都能说通。具体选择哪个读者自己判断吧。</p><p>[4]：减去伴奏后清楚听到了轻声说出的这句话</p><p>该部分减去伴奏后的音频</p>]]></content>
+    <content type="html"><![CDATA[<p>悔やむと書いてミライ 歌词翻译 中文歌词</p><p><a href="https://www.nicovideo.jp/watch/sm36566206" target="_blank" rel="noopener">【MV】最終宣告／まふまふ</a></p><p>作词作编曲：まふまふ<br>歌词翻译：JZLSX</p><p>#不管是做字幕还是贴评论区，只要转载翻译请标明译者！请勿自行改动翻译！</p><p>#5/9补充：根据官方歌词修改部分排版</p><p>罗马音：<a href="https://mafuclub.com/romaji/kuyamu/" target="_blank" rel="noopener">https://mafuclub.com/romaji/kuyamu/</a></p><p>悔やむと書いてミライ/ 写作悔恨的未来[1]</p><p>一思いにボクを刺してくれたら<br>如果能狠心刺向我<br>いいのにな　いいのにな<br>就好了啊 就好了啊<br>不条理な御託で刺してくれたら<br>如果能以毫无逻辑的夸夸其谈刺向我<br>いいのにな　いいのにな<br>就好了啊 就好了啊</p><p>いつかゴミに出したのに<br>明明什么时候已经作为垃圾扔掉了的<br>袖口に隠していた生涯<br>藏在袖口里的生涯<br>燃やせぬまま灰になれずにいたんだ<br>却无法使它烧掉化作灰烬</p><p>死にたい　消えたい以上ない<br>想死 想消失 没有超出于此的想法<br>こんな命に期待はしないさ<br>对这样的生命完全没有期待<br>故に夢に魘され<br>因此 此为在噩梦中呻吟<br>塞いだ過去に咲いた世界<br>于郁闷的过去绽放的世界</p><p>癒えない　見えない傷ほど<br>越是无法痊愈 无法看见的伤痕<br>きっと瘡蓋だって出来やしないと<br>就越是无法结痂<br>ボクは知っていた<br>这一点我深知着<br>悔やむと書いてミライ<br>写作后悔的未来</p><p>生きるふりをして死んでいくのが<br>装作活着渐渐死去的是<br>人生か　人生だ<br>人生吗 是人生啊</p><p>そんじゃボクらはどうしてこの世に<br>既然如此 我们为何在这世上<br>こんな未完成な身体に<br>在这样未完成的身体里<br>未だ　心を持っているんだ<br>仍然拥有着心脏呢[2]</p><p>きっと拉げた如雨露で<br>一定在用着被压碎的喷壶<br>花を咲かせようとした　そうさ<br>尝试着让花朵盛开 对了<br>種一つない土に撒いちゃいないか<br>要撒在没有一粒种子的土地里吗？[3]</p><p>だから一抜けした　捨てた<br>所以我脱离了群体 舍弃一切<br>この世の流行り病のような愛も<br>这世上像流行病一样的爱也好<br>爪の先よりも細い<br>比指甲尖更细的<br>底浅い友の情愛も<br>肤浅的朋友之间的情爱也好</p><p>知らない　知りたいこともない<br>我不知道 也完全不想知道<br>どうせ言葉以上の意味などないと<br>反正它们也没有超出文字本身的意思了<br>ボクは知っていた<br>这点我是深知的<br>悔やむと書いてミライ<br>写作悔恨的未来</p><p>片道分の蝋を持って<br>握着渐渐燃烧殆尽的蜡烛<br>消さないように必死になって<br>为了不让它熄灭而拼命下去<br>わずか照らした一寸先の<br>微微被照耀的 向前一寸的前方的<br>穴ぼこは誰が落ちた跡？<br>坑洞是谁落下的痕迹？</p><p>それが人生です　ボクら手にした人生なんです<br>那就是人生 在我们手中的人生</p><p>生まれたこと自体が<br>被生下来这件事本身<br>間違いだったの？<br>就是错误的吧？</p><p>何も変わりやしなかった[4]<br>什么也没能改变</p><p>死にたい　消えたい以上ない<br>想死 想消失 没有超出于此的想法<br>こんな命に期待はしないさ<br>对这样的生命完全没有期待<br>故に夢に魘され<br>因此 此为在噩梦中呻吟<br>塞いだ過去に咲いた世界<br>于郁闷的过去绽放的世界</p><p>癒えない　見えない傷ほど<br>越是无法痊愈 无法看见的伤痕<br>きっと瘡蓋だって出来やしないと<br>就越是无法结痂<br>ボクは知っていた<br>这一点我深知着<br>悔やむと書いてミライ<br>写作后悔的未来</p><p>悔やむと書いて　ミライ<br>写作后悔的 未来</p><p>消えたいの　消えたいの<br>“想消失吗 想消失吗”<br>何回だって言い聞かせた<br>不管多少次都这样对自己说出</p><p>夢も見れぬような　後悔を頂戴<br>请给我无法做梦般的后悔</p><p>[1]：关于这次的曲名，有人说是“写下悔恨的未来”，确实翻译成写下也能说通，但是日语有种说法叫「○○と書いて○○と読む」 意思是 写作XXX读作XXX。很多情况下会有故意让汉字和读音不匹配的情况，所以用这种说法来解释读音。结合这一点来看这个标题的意思大概是 写作“悔恨”而读作“未来” 的意思，大概就像图中的一样，也更比“写下悔恨的未来” 更加说得通，符合意境一些，而且能解释为什么“未来”要用片假名写而不是汉字。所以我认为曲名的正确翻译应该是“写作悔恨的未来”</p><p><img src="https://mafuclub.com/wp-content/uploads/2020/04/1587643792141.png" srcset="/img/loading.gif" alt=""></p><p>[2]这里<strong>心を持つ</strong>可以是怀有心灵，但是如果理解成 “怀有一颗心”的话会偏向与“对…抱有期待”，这两种翻译都能说通，不过一般就理解为怀有心灵，而且应该不会有这样的引申意义，所以就按照字面意思翻译了。</p><p>[3]：这里咨询了一些人 发现“要撒在没有一粒种子的土地里吗？”和“不是正在往没有一粒种子的土里撒吗”都能说通。具体选择哪个读者自己判断吧。</p><p>[4]：减去伴奏后清楚听到了轻声说出的这句话</p><p>该部分减去伴奏后的音频</p>]]></content>
     
     
     
@@ -807,20 +801,30 @@
   
   <entry>
     <title>「あの夏が飽和する。」ーカンザキイオリ/まふまふ (歌ってみた)|假名歌词 +罗马音</title>
-    <link href="/uncategorized/anonatsugahouwasuru/"/>
-    <url>/uncategorized/anonatsugahouwasuru/</url>
+    <link href="/romaji/anonatsugahouwasuru/"/>
+    <url>/romaji/anonatsugahouwasuru/</url>
     
     <content type="html"><![CDATA[<p>「あの夏が飽和する。」</p><p>作詞：カンザキイオリ<br>作曲：カンザキイオリ<br>歌/Mix：まふまふ</p><p>罗马音：<a href="https://space.bilibili.com/242402048/article" target="_blank" rel="noopener">化野_uni</a></p><p>「ki nou hito wo koro shi tan da」<br>「昨日(きのう)人(ひと)を殺(ころ)したんだ」<br>kimi wa sou i tte i ta<br>君(きみ)はそう言(い)っていた。<br>tsu yu doki zubu nu re no man ma<br>梅雨時(つゆどき)ずぶ濡(ぬ)れのまんま、<br>he ya no ma e de na i te i ta<br>部屋(へや)の前(まえ)で泣(な)いていた。<br>na tsu ga ha ji ma tta ba ka ri to i u no ni<br>夏(なつ)が始(はじ)まったばかりというのに、<br>kimi wa hi do ku furu e te i ta<br>君(きみ)はひどく震(ふる)えていた。<br>son na ha na shi de ha ji maru<br>そんな話(はなし)で始(はじ)まる、<br>a no na tsu no hi no ki o ku da<br>あの夏(なつ)の日(ひ)の記憶(きおく)だ。</p><p>「ko ro shi ta no wa to na ri no se ki no<br>「殺(ころ)したのは隣(となり)の席(せき)の、<br>i tsu mo i ji me te ku ru a i tsu<br>いつも虐(いじ)めてくるアイツ。<br>mou i ya ni na tte kata wo tsu ki toba shi te<br>もう嫌(いや)になって、肩(かた)を突(つ)き飛(と)ばして、<br>u chi do koro ga wa ru ka ttan da<br>打(う)ち所(どころ)が悪(わる)かったんだ。<br>mo u koko ni wa i ra re nai to o mou shi<br>もうここには居(い)られないと思(おも)うし、<br>do kka too i toko de shin de kuru yo」<br>どっか遠(とお)いとこで死(し)んでくるよ」<br>son na kimi ni boku wa i tta<br>そんな君(きみ)に僕(ぼく)は言(い)った。</p><p>「so re jya boku mo tsu re te tte」<br>「それじゃ僕(ぼく)も連(つ)れてって」</p><p>sa i fu wo mo tte na i fu wo mo tte<br>財布(さいふ)を持(も)って、ナイフを持(も)って、<br>kei ta i ge-mu mo ka ban ni tsu me te<br>携帯(けいたい)ゲームもカバンに詰(つ)めて、<br>i ra na i mo no wa zen bu ko wa shi te i kou<br>いらないものは全部(ぜんぶ)壊(こわ)していこう。<br>a no sha shin mo a no ni kki mo<br>あの写真(しゃしん)も、あの日記(にっき)も、<br>i ma to na ccha mou i ra nai sa<br>今(いま)となっちゃもういらないさ。<br>hi to go ro shi to dame nin gen no<br>人殺(ひとごろ)しとダメ人間(にんげん)の<br>kimi to boku no tabi da<br>君(きみ)と僕(ぼく)の旅(たび)だ。</p><p>so shi te boku ra wa ni ge da shi ta<br>そして僕(ぼく)らは逃(に)げ出(だ)した。<br>kono se ma i se ma i kono se kai kara<br>この狭(せま)い狭(せま)いこの世界(せかい)から。<br>ka zoku mo ku ra su no ya tsu ra mo<br>家族(かぞく)もクラスの奴(やつ)らも<br>nani mo kamo zen bu su tete kimi to fu tari de<br>何(なに)もかも全部(ぜんぶ)捨(す)てて<br>君(きみ)と二人(ふたり)で。<br>too i too i dare mo i nai ba sho de fu tari de shi nou yo<br>遠(とお)い遠(とお)い誰(だれ)もいない場所(ばしょ)で二人(ふたり)で死(し)のうよ。<br>mou kono se ka i ni ka chi na do nai yo<br>もうこの世界(せかい)に価値(かち)などないよ。<br>ho to go ro shi nan te soko ra jyuu wa i te ru jyan ka<br>人殺(ひとごろ)しなんてそこら中(じゅう)湧(わ)いてるじゃんか。<br>kimi wa nani mo waru ku na i yo<br>君(きみ)は何(なに)も悪(わる)くないよ。<br>kimi wa nani mo waru ku na i yo<br>君(きみ)は何(なに)も悪(わる)くないよ。</p><p>ke kkyo ku boku ra dare ni mo a i sare ta koto nado na ka ttan da<br>結局(けっきょく)僕(ぼく)ら誰(だれ)にも愛(あい)されたことなどなかったんだ。<br>son na i ya na kyou tsu u ten de<br>そんな嫌(いや)な共通点(きょうつうてん)で<br>boku ra wa kan tan ni shin ji a tte ki ta<br>僕(ぼく)らは簡単(かんたん)に信(しん)じあってきた。<br>kimi no te wo nigi tta toki kasu kana fu ru e mo sude ni naku na tte i te<br>君(きみ)の手(て)を握(にぎ)った時(とき)、微(かす)かな震(ふる)えも既(すで)に無(な)くなっていて<br>dare ni mo shi ba rare nai de fu tari sen ro no u e wo a ru i ta<br>誰(だれ)にも縛(しば)られないで二人(ふたり)線路(せんろ)の上(うえ)を歩(ある)いた。</p><p>kane wo nu sun de fu tari de ni ge te<br>金(かね)を盗(ぬす)んで、二人(ふたり)で逃(に)げて、<br>doko ni mo i ke ru ki ga shi tan da<br>どこにも行(い)ける気(き)がしたんだ。<br>i ma sara ko wa i mono wa boku ra ni wa na ka ttan da<br>今更(いまさら)怖(こわ)いものは僕(ぼく)らにはなかったんだ。<br>hi tai no a se mo o chi ta me ga ne mo<br>額(ひたい)の汗(あせ)も、落(お)ちたメガネも<br>「i ma to na ccha dou demo ii sa<br>「今(いま)となっちゃどうでもいいさ。<br>a bu re mono no chii sa na to u hi ko u no tabi da」<br>　あぶれ者(もの)の小(ちい)さな逃避行(とうひこう)の旅(たび)だ」</p><p>i tsu ka yume mi ta ya sa shi ku te<br>いつか夢見(ゆめみ)た優(やさ)しくて、<br>dare ni mo su ka re ru shu jin kou nara<br>誰(だれ)にも好(す)かれる主人公(しゅじんこう)なら、<br>ki ta naku na tta boku ta chi mo mi su te zu ni<br>汚(きたな)くなった僕(ぼく)たちも見捨(みす)てずに<br>chan to suku tte ku reru no kana<br>ちゃんと救(すく)ってくれるのかな？<br>「son na yume nara su te ta yo<br>「そんな夢(ゆめ)なら捨(す)てたよ、<br>da tte gen ji tsu wo mi ro yo<br>だって現実(げんじつ)を見(み)ろよ。<br>shi a wa se no yon moji nan te na ka tta<br>シアワセの四文字(よんもじ)なんてなかった、<br>i ma made no jin se i de o mo i shi tta jya nai ka<br>今(いま)までの人生(じんせい)で思(おも)い知(し)ったじゃないか。<br>ji bun wa nani mo waru ku nee to<br>自分(じぶん)は何(なに)も悪(わる)くねえと<br>dare mo ga ki tto o mo tte ru」<br>誰(だれ)もがきっと思(おも)ってる」</p><p>a te mo naku sa ma you se mi no mure ni<br>あてもなく彷徨(さまよ)う蝉(せみ)の群(む)れに、<br>mizu mo naku nari yure dasu shi ka i ni<br>水(みず)も無(な)くなり揺(ゆ)れ出(だ)す視界(しかい)に、<br>se mari ku ru u o ni ta chi no do go u ni<br>迫(せま)り狂(くる)う鬼(おに)たちの怒号(どごう)に、<br>baka mi tai ni ha sha gi ai<br>バカみたいにはしゃぎあい<br>futo kimi wa na i fu wo to tta<br>ふと君(きみ)はナイフを取(と)った。<br>「kimi ga i ma made soba ni i ta kara koko made kore tan da<br>「君(きみ)が今(いま)まで傍(そば)にいたからここまでこれたんだ。<br>da kara mou ii yo mou ii yo」<br>だからもういいよ。もういいよ」</p><p>「shi nu no wa wa ta shi hi to ri de ii yo」<br>「死(し)ぬのは私(わたし)一人(ひとり)でいいよ」</p><p>so shi te kimi wa kubi wo ki tta<br>そして君(きみ)は首(くび)を切(き)った。<br>ma ru de nan ka no e i ga no wan shi-n da<br>まるで何(なん)かの映画(えいが)のワンシーンだ。<br>ha ku chuu mu wo mi te i ru ki ga shi ta<br>白昼夢(はくちゅうむ)を見(み)ている気(き)がした。<br>ki zu ke ba boku wa tsu ka ma tte<br>気(き)づけば僕(ぼく)は捕(つか)まって。<br>kimi ga doko ni mo mi tsu kara na ku tte<br>君(きみ)がどこにも見(み)つからなくって。<br>kimi dake ga doko ni mo i na ku tte<br>君(きみ)だけがどこにもいなくって。</p><p>so shi te toki wa su gi te i tta<br>そして時(とき)は過(す)ぎていった。<br>tada a tsu i a tsu i hi ga su gi te tta<br>ただ暑(あつ)い暑(あつ)い日(ひ)が過(す)ぎてった。<br>ka zoku mo ku rasu no ya tsu ra mo i ru no ni<br>家族(かぞく)もクラスの奴(やつ)らもいるのに<br>naze ka kimi dake wa doko ni mo i nai<br>なぜか君(きみ)だけはどこにもいない。</p><p>a no na tsu no hi wo o mo i da su<br>あの夏(なつ)の日(ひ)を思(おも)い出(だ)す。<br>boku wa i ma mo i ma demo u ta tte ru<br>僕(ぼく)は今(いま)も今(いま)でも歌(うた)ってる。<br>kimi wo zu tto sa ga shi te i run da<br>君(きみ)をずっと探(さが)しているんだ。<br>kimi ni ii tai koto ga a run da<br>君(きみ)に言(い)いたいことがあるんだ。</p><p>ku ga tsu no o wa ri ni ku sha mi shi te<br>九月(くがつ)の終(お)わりにくしゃみして<br>ro ku ga tsu no ni o i wo ku ri ka e su<br>六月(ろくがつ)の匂(にお)いを繰(く)り返(かえ)す。<br>kimi no e ga o wa<br>君(きみ)の笑顔(えがお)は<br>kimi no mu jya ki sa wa<br>君(きみ)の無邪気(むじゃき)さは<br>a ta ma no naka wo hou wa shi te i ru<br>頭(あたま)の中(なか)を飽和(ほうわ)している。</p><p>dare mo nani mo waru ku nai yo<br>誰(だれ)も何(なに)も悪(わる)くないよ。<br>kimi wa nani mo waru ku wa nai kara<br>君(きみ)は何(なに)も悪(わる)くはないから<br>mou ii yo<br>もういいよ。<br>na ge da shi te shi ma o u<br>投(な)げ出(だ)してしまおう。</p><p>sou i tte ho shi ka tta no da rou ？naa？<br>そう言(い)って欲(ほ)しかったのだろう？ なあ？</p>]]></content>
     
     
+    <categories>
+      
+      <category>罗马音</category>
+      
+    </categories>
+    
     
     <tags>
       
-      <tag>中文 (中国)</tag>
-      
       <tag>罗马音</tag>
       
+      <tag>まふまふ</tag>
+      
       <tag>あの夏が飽和する。</tag>
+      
+      <tag>假名歌词</tag>
+      
+      <tag>カンザキイオリ</tag>
       
     </tags>
     
@@ -1214,18 +1218,20 @@
   
   <entry>
     <title>「アンヘル（天使）」歌ってみた /まふまふ 【罗马音+假名歌词】</title>
-    <link href="/uncategorized/angel/"/>
-    <url>/uncategorized/angel/</url>
+    <link href="/romaji/angel/"/>
+    <url>/romaji/angel/</url>
     
     <content type="html"><![CDATA[<p>「アンヘル」</p><p>作詞：かいりきベア<br>作曲：かいりきベア<br>編曲：かいりきベア<br>唄/Mix：まふまふ</p><p>罗马音：<a href="https://space.bilibili.com/242402048/article" target="_blank" rel="noopener">化野_uni</a></p><p>doku doku ma ji wa tte<br>ドクドク交(まじ)わって　<br>ta chi ma chi kon ni chi wa<br>たちまちコンニチハ　<br>a hahahaha ta ta ta tan jyou bi<br>あはははは　たたた誕生日(たんじょうび)<br>zoku zoku wa zu ra tte<br>続々(ぞくぞく)患(わずら)って　<br>me no fuchi nu re temo<br>目(め)の縁(ふち) 濡(ぬ)れても<br>shi a wa se desu i ki te i ru nara hora！<br>幸(しあわ)せです 生(い)きているなら ほら！<br>ke se ra ke se ra ke se ra<br>ケセラ　ケセラ　ケセラ　</p><p>a-<br>あー</p><p>dare ni mo ta non da<br>誰(だれ)にも頼(たの)んだ<br>o bo e wa naku to mo<br>覚(おぼ)えはなくとも　<br>a hahahaha un de mo ra e te<br>あはははは　産(う)んでもらえて<br>jiku jiku a za ni na tte<br>ジクジク痣(あざ)になって<br>e gu re chi mo re temo<br>抉(えぐ)れ 血漏(ちも)れても<br>shi a wa se desu i ki te i ru kara hora！<br>幸(しあわ)せです 生(い)きているから ほら！<br>ke se ra ke se ra ke se ra<br>ケセラ　ケセラ　ケセラ　<br>ra ra rarara…<br>ラララララ…</p><p>a ka ku sa i ta<br>紅(あか)く咲(さ)いた<br>ku doku no ya i ba<br>功徳(くどく)の刃(やいば)　<br>son zai no i gi wo<br>存在(そんざい)の意義(いぎ)を　<br>ka za se ka za se<br>翳(かざ)せ　翳(かざ)せ<br>jyuu boku no ka ru ma<br>従僕(じゅうぼく)の業(カルマ)　<br>shuu goku no ha te ni<br>囚獄(しゅうごく)の果(は)てに　<br>ku da ra nu i no chi<br>くだらぬ命(いのち)　<br>tsu mu ge tsu mu ge yo<br>紡(つむ)げ　紡(つむ)げよ</p><p>a a<br>嗚呼(ああ)<br>ke kkai shi ni karu tte<br>決壊(けっかい) シニカルって<br>i chi ni san<br>１(いち)　２(に)　３(さん)<br>tsu ra i de sho？hi sshi ni na tte<br>辛(つら)いでしょ？必死(ひっし)になって<br>sei sei sei sei<br>生(せい) 生(せい) 生(せい) 生(せい)<br>se kkai kokoro nu tte<br>切開(せっかい)　ココロ縫(ぬ)って　<br>ni ni san<br>２(に)　２(に)　３(さん)<br>ga ra kuta na mi ra i<br>ガラクタな未来(みらい)<br>te ra se te ra se<br>照(て)らせ 照(て)らせ</p><p>moku soku a ya ma tte<br>目測誤(もくそくあやま)って　<br>ta chi ma chi kon ni chi wa<br>たちまちコンニチハ　<br>a hahahaha un de ko ra e te<br>あはははは　膿(う)んで堪(こら)えて<br>naku naku ta me ra tte<br>泣(な)く泣(な)く躊躇(ためら)って<br>「i ki ru」wo e ra be ba<br>「生(い)きる」を選(えら)べば　<br>shi a wa se desu<br>幸(しあわ)せです　<br>koko wa raku en hora！<br>この世（ここ）は楽園(らくえん)　ほら！<br>ke se ra ke se ra ke se ra<br>ケセラ　ケセラ　ケセラ　<br>ra ra rarara…<br>ラララララ</p><p>a ka ku sa i ta<br>紅(あか)く裂(さ)いた　<br>hai toku no ka i ga<br>背徳(はいとく)の絵画(かいが)<br>son zai no gi ri wo<br>存在(そんざい)の義理(ぎり)を　<br>ha ta se ha ta se<br>果(は)たせ　果(は)たせ<br>jyuu boku no ka ru ma<br>従僕(じゅうぼく)の業(カルマ)　<br>bou toku no su e ni<br>冒涜(ぼうとく)の末(すえ)に　<br>wa zu ka na hi ka ri<br>僅(わず)かな希望(ひかり)<br>mo to me mo to me<br>求(もと)め　求(もと)め</p><p>a a<br>嗚呼(ああ)<br>ke kkai shi ni karu tte<br>決壊(けっかい)　シニカルって　<br>i chi ni san<br>１(いち)　２(に)　３(さん)<br>tsu ra i re sshou<br>辛(つら)い裂傷(れっしょう)　<br>ya kki ni na tte<br>躍起(やっき)になって<br>sei sei sei sei<br>生(せい) 生(せい) 生(せい) 生(せい)<br>shi ttai doro kabu tte<br>失態(しったい)　泥被(どろかぶ)って　<br>ni ni san<br>２(に)　２(に)　３(さん)<br>kara ppo na mi ra i<br>空(から)っぽな未来(みらい)　<br>sa ra se sa ra se<br>晒(さら)せ　晒(さら)せ</p><p>a a<br>嗚呼(ああ)<br>ke kkai ma-aka na kizu<br>決壊(けっかい)　真(ま)っ赤(あか)な傷(きず)<br>i chi ni san<br>１(いち)　２(に)　３(さん)<br>fu mare ta tte ke rare ta tte<br>踏(ふ)まれたって 蹴(け)られたって<br>sei sei sei sei<br>生(せい) 生(せい) 生(せい) 生(せい)<br>ji ssai kokoro chi tte<br>実際(じっさい)　ココロ散(ち)って　<br>ni ni san<br>２(に)　２(に)　３(さん)<br>ga ra kuta na ji bun<br>ガラクタな自分(じぶん)　<br>ka ku se ka ku se<br>隠(かく)せ　隠(かく)せ</p><p>kono hi ni ban zai san shou<br>此(こ)の灯(ひ)に万歳三唱(ばんざいさんしょう)　<br>ko doku ni son zai i sshou<br>孤独(こどく)に存在一生(そんざいいっしょう)<br>sono ku ni i ron tei shou<br>その苦(く)に異論提唱(いろんていしょう)　<br>go taku wa ron gai sa sshou<br>御託(ごたく)は論外殺傷(ろんがいさっしょう)<br>kono mi ni ma tou byou jyou<br>此(こ)の身(み)に纏(まと)う病状(びょうじょう)　<br>na raku ni ma dou hyou jyou<br>奈落(ならく)に惑(まど)う表情(ひょうじょう)<br>kaji kamu re kka na jyou kyou<br>悴(かじか)む劣化(れっか)な状況(じょうきょう)<br>todo ka nu kyou mei son shou<br>届(とど)かぬ救命損傷(きょうめいそんしょう)</p><p>sono mi de gen bu tsu ban shou<br>その身(み)で見物万象(けんぶつばんしょう)　<br>hi ni ku no kon zai ri sshou<br>皮肉(ひにく)の混在立証(こんざいりっしょう)<br>gi sen no ou kou gen shou<br>偽善(ぎぜん)の横行現象(おうこうげんしょう)　<br>horo bi no sei zon kyou sou<br>滅(ほろ)びの生存競争(せいぞんきょうそう)<br>taka daka jin sei hya ku nen<br>たかだか人生百年(じんせいひゃくねん)<br>dare mo ga ta do ru shuu en<br>誰(だれ)もが辿(たど)る終焉(しゅうえん)<br>sono ku se i ki ru shuu nen<br>そのくせ生(い)きる執念(しゅうねん)<br>a ku na ki mu jun ni bou zen<br>飽(あ)くなき矛盾(むじゅん)に呆然(ぼうぜん)</p><p>ke kkan shi ta i ha tte<br>欠陥(けっかん)　肢体(したい)這(は)って　<br>i chi ni san<br>１(いち)　２(に)　３(さん)<br>tsu ra i san jyou de gu chi sura<br>辛(つら)い惨状(さんじょう) 出口(でぐち)すら<br>nai nai nai na<br>無(な)い無(な)い無(な)いな<br>ke ttai a kka na shin zou<br>結滞(けったい) 悪化(あっか)な心臓(しんぞう)<br>ni ni san<br>２(に)　２(に)　３(さん)<br>i ta i de sho？ hora hora…<br>痛(いた)いでしょ？　ほらほら…</p><p>a a<br>嗚呼(ああ)<br>ke kkai shi ni karu tte<br>決壊(けっかい)　シニカルって　<br>i chi ni san<br>１(いち)　２(に)　３(さん)<br>tsu ra i de sho？hi sshi ni na tte<br>辛(つら)いでしょ？必死(ひっし)になって<br>sei sei sei sei<br>生(せい) 生(せい) 生(せい) 生(せい)<br>se kka i kokoro nu tte<br>切開(せっかい)　ココロ縫(ぬ)って　<br>ni ni san<br>２(に)　２(に)　３(さん)<br>ga ra kuta na mi ra i<br>ガラクタな未来(みらい)　<br>te ra se te ra se<br>照(て)らせ 照(て)らせ</p><p>a a<br>嗚呼(ああ)<br>de kkai ma-aka na ba tten<br>でっかい真(ま)っ赤(あか)な×点(ばってん)　<br>i chi ni san<br>１(いち)　２(に)　３(さん)<br>fu mare ta tte ke gare ta tte<br>踏(ふ)まれたって 穢(けが)れたって<br>sei sei sei sei<br>生(せい) 生(せい) 生(せい) 生(せい)<br>ji ssai kokoro chi tte<br>実際(じっさい)　ココロ散(ち)って　<br>ni ni san<br>２(に)　２(に)　３(さん）<br>ga ra kuta na mi ra i<br>ガラクタな未来(みらい)<br>te ra se te ra se<br>照(て)らせ 照(て)らせ　<br>sa ra se sa ra se<br>晒(さら)せ　晒(さら)せ　<br>ko wa se ko wa se<br>壊(こわ)せ　壊(こわ)せ</p>]]></content>
     
     
+    <categories>
+      
+      <category>罗马音</category>
+      
+    </categories>
+    
     
     <tags>
-      
-      <tag>中文 (中国)</tag>
-      
-      <tag>假名</tag>
       
       <tag>罗马音</tag>
       
@@ -1235,7 +1241,7 @@
       
       <tag>まふまふ</tag>
       
-      <tag>天使</tag>
+      <tag>假名歌词</tag>
       
     </tags>
     
@@ -1865,26 +1871,28 @@
   
   <entry>
     <title>「4」「20XX 」/神様、僕は気づいてしまった【罗马音+假名歌词】</title>
-    <link href="/uncategorized/20xx/"/>
-    <url>/uncategorized/20xx/</url>
+    <link href="/romaji/20xx/"/>
+    <url>/romaji/20xx/</url>
     
     <content type="html"><![CDATA[<p>「20XX 」</p><p>神様、僕は気づいてしまった<br>－「20XX」アルバム収録曲</p><p>作詞：東野へいと<br>作曲：東野へいと<br>vocal：どこのだれか</p><p>罗马音：<a href="https://space.bilibili.com/242402048/article" target="_blank" rel="noopener">化野_uni</a></p><p>wa ka tte ru i ya wa ka tte ru<br>わかってる いやわかってる　<br>boku ra wa shi ra na su gi tan da ro<br>僕等(ぼくら)は知(し)らな過(す)ぎたんだろ<br>ko ta e te yo nara ko ta e te yo<br>答(こた)えてよ なら答(こた)えてよ　<br>dore ku rai ki bou wo ma tte i rya<br>どれくらい希望(きぼう)を待(ま)っていりゃ<br>mu ka e ga ku run da yo<br>迎(むか)えが来(く)るんだよ</p><p>su ku i nan te na i ji da i<br>救(すく)いなんてない時代(じだい)<br>ko to ba nado ka i mo na i mu ka chi<br>言葉(ことば)など甲斐(かい)もない無価値(むかち)<br>chi ga u ka<br>違(ちが)うか<br>son na pon ko tsu ni su gan na yo<br>そんなポンコツに縋(すが)んなよ</p><p>mo de ra- to na pe- su de ma waru se kai<br>モデラートなペースで廻(まわ)る世界(せかい)<br>su be tte o chi n no wa do na ta sama<br>滑(すべ)って落(お)ちんのはどなた様(さま)<br>fu ka shi ta ka o wo shi ta bake neko ga<br>ふかした顔(かお)をした化(ば)け猫(ねこ)が　<br>ko ro bu ha te ru saa- i chi nu ke ta<br>転(ころ)ぶ 果(は)てる さぁ一抜(いちぬ)けた</p><p>kara ppo no mama demo se ma ru mi rai<br>空(から)っぽのままでも迫(せま)る未来(みらい)<br>o wa tte shi ma u na ra so no tei do<br>終(お)わってしまうならその程度(ていど)<br>wara tte mo na i te mo<br>笑(わら)っても泣(な)いても<br>ko i tsu ga sai shuu bin da ro<br>こいつが最終便(さいしゅうびん)だろ</p><p>wa ka tte ru i ya wa ka tte ru<br>わかってる いやわかってる　<br>koko ra ga o wa ri to ki nan da ro<br>ここらが終(お)わり時(とき)なんだろ<br>sai go ni o shi e te yo<br>最後(さいご)に教(おし)えてよ　<br>don na i no chi yo ri mo<br>どんな命(いのち)よりも<br>kyou ga e ra ba re ta shou in wa<br>今日(きょう)が選(えら)ばれた勝因(しょういん)は　<br>do ko ni a ttan da yo<br>どこにあったんだよ</p><p>yuru sa re ru no nara i ma wa<br>許(ゆる)されるのなら今(いま)は　<br>hito ni na ri ki re nu mama<br>人(ひと)になりきれぬまま　<br>mi ta na i ko kyuu de<br>満(み)たない呼吸(こきゅう)で<br>son na tei sai wo wa su re you<br>そんな体裁(ていさい)を忘(わす)れよう</p><p>a n dan te na ten po jya no ri so ko na u<br>アンダンテなテンポじゃ乗(の)り損(そこ)なう<br>pe ten shi wo me za shi te i ki i so ge<br>ペテン師(し)を目指(めざ)して生(い)き急(いそ)げ<br>su ma shi ta ho chou de e ra re ta no ga<br>澄(す)ました歩調(ほちょう)で得(え)られたのが<br>mo ra ru da ke jya<br>モラルだけじゃ　<br>e ji ki ni na ru<br>餌食(えじき)になる</p><p>kara ppo no mama de mo se ma ru mi rai<br>空(から)っぽのままでも迫(せま)る未来(みらい)<br>no ma re te shi ma tta ra no-sai do<br>飲(の)まれてしまったらノーサイド<br>wa ra tte mo na i te mo<br>笑(わら)っても泣(な)いても<br>ko i tsu ga sai shuu bin da ro<br>こいつが最終便(さいしゅうびん)だろ　<br>wa kan da ro<br>わかんだろ</p><p>ka ra ka tte 、so shi ri a tte<br>揶揄(からか)って　誹(そし)り合(あ)って　<br>ke ri o to shi te、de mo tsu ka mi to re<br>蹴(け)り落(お)として でも掴(つか)み取(と)れ<br>yu me nan te 、ne go to ko i te<br>夢(ゆめ)なんて　寝言(ねごと)こいて　<br>ri sou o tte ru ji kan na do na i<br>理想(りそう)追(お)ってる時間(じかん)などない</p><p>hi ni ku tte 、na gu ri a tte<br>皮肉(ひにく)って　殴(なぐ)り合(あ)って　<br>kokoro wo na ku shi tara u ba i to re<br>心(こころ)を失(な)くしたら奪(うば)い取(と)れ<br>wa ni na tte<br>輪(わ)になって　<br>wa ra u koto sa e mou na in da rou<br>笑(わら)うことさえもうないんだろう</p>]]></content>
     
+    
+    <categories>
+      
+      <category>罗马音</category>
+      
+    </categories>
     
     
     <tags>
       
       <tag>20XX</tag>
       
-      <tag>中文 (中国)</tag>
-      
-      <tag>假名</tag>
-      
-      <tag>歌词</tag>
-      
       <tag>神様、僕は気づいてしまった</tag>
       
       <tag>罗马音</tag>
+      
+      <tag>假名歌词</tag>
       
     </tags>
     
@@ -2375,18 +2383,28 @@
   
   <entry>
     <title>【歌词翻译】アンチウィルス - まふまふ</title>
-    <link href="/uncategorized/antivirus/"/>
-    <url>/uncategorized/antivirus/</url>
+    <link href="/translation/antivirus/"/>
+    <url>/translation/antivirus/</url>
     
     <content type="html"><![CDATA[<p>アンチウィルス<br>唄・作詞作曲・編曲  まふまふ</p><p>産声から引き当てた　たったひとつの切り札は<br>どうも前世で捨てたような　人生ってやつでした</p><p>一出生就抽到的 仅仅一张的王牌<br>总觉得像是前世舍弃的 名为人生的东西</p><p>生まれつき飛車角落ち　今日で何度の片手落ち<br>こんな大層な病室が　ボクのためだとでも言うのですか</p><p>生来就拱手让出重要棋子 今天又是第几次不公平了<br>这样夸张的病房 说是给我而修的吗</p><p>自己愛性トリック<br>ヒス体質解体ショー</p><p>自恋诡计<br>歇斯底里体格 解体Show</p><p>もうたくさん</p><p>已经无法忍受了</p><p>知った顔して近寄るな<br>生涯セカイ系パラノイア<br>この痛いも余さず全部治してよ<br>アンチウィルス　ねえ</p><p>不要摆出一副什么都知道了的脸靠近啊<br>一生只是个世界系的偏执狂<br>要不留余地将这疼痛全部治好啊<br>反病毒武器 喂</p><p>この爛れた傷口に<br>触れてはくれないでしょう？<br>愛情失調した愛を謳ったお前から<br>どっかへ消えちまえ</p><p>这已经溃烂的伤口<br>不会有人来触摸吧<br>从即使爱情失调也在讴歌爱情的你开始<br>一个一个都滚到哪消失吧</p><p>きっと一生抜け出せない　愛だ何だを吐かされて<br>こんな大層な監獄が　ボクの夢なのですか</p><p>这一生一定无法逃脱 于是吐出爱为何物的言语<br>这样夸张的监狱 是我的梦吗</p><p>欲まみれの片棒を全身で担がされた<br>点滴より処方した　最低をかき鳴らす公開ショー</p><p>充满的欲望被全身袒护<br>开了吊针的处方 弹拨最差乐器的公开秀</p><p>背中を押して誤解を飛ばして<br>手を取ったふりで引っ掻いてよ</p><p>督促吧 散布误会吧<br>假装握手然后使劲乱抓吧</p><p>そうしてこうして綴った答えの<br>何も象らない滑稽さ</p><p>这样写下的回答<br>是任何东西都无法仿照的滑稽啊</p><p>目も当てられない言葉で<br>聞くに堪えない鼻声で<br>王様か何かになったつもりなの？<br>アンチウィルス　ねえ</p><p>用不堪入目的语言<br>和不堪入耳的鼻音<br>想要成为大王什么的吗<br>反病毒武器 喂</p><p>体裁　御託に抜かりはない<br>その理由も疑わしい<br>愛情失調した愛を謳ったお前から<br>どっかへ消えちまえ</p><p>奉承话 废话 万无一失<br>那理由很值得怀疑<br>从即使爱情失调也在讴歌爱情的你开始<br>一个一个都滚到哪消失吧</p><p>治療して　治療して　この音が手錠なの</p><p>快治疗吧 快治好吧 这声音是手铐吗</p><p>気づいて　治療して</p><p>快注意啊 治疗啊</p>]]></content>
     
     
+    <categories>
+      
+      <category>歌词翻译</category>
+      
+    </categories>
+    
     
     <tags>
       
-      <tag>中文 (中国)</tag>
+      <tag>まふまふ</tag>
       
-      <tag>まふまふ歌词翻译</tag>
+      <tag>中文歌词</tag>
+      
+      <tag>歌词翻译</tag>
+      
+      <tag>アンチウィルス</tag>
       
     </tags>
     
